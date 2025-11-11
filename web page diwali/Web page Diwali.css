@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Diwali-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 40vh;
+    width: 100vw;
+}
+
+.Diwali-head {
+    color: white;
+    font-family: Caveat;
+    font-size: 45px;
+    font-weight: normal;
+    width: 50vw;
+    padding: 10px;
+}
+
+.Diwali-bottom {
+    background-color: #e6f6ff;
+    height: 100vh;
+    text-align: center;
+}
+
+.Diwali-card-item {
+    background-color: white;
+    height: 180px;
+    width: 180px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 12px;
+    margin: 10px;
+}
+
+.Diwali-card-head {
+    font-size: 15px;
+    font-family: Bree Serif;
+    padding: 10px;
+}
+
+.Diwali-card-price {
+    font-size: 15px;
+    font-family: Bree Serif;
+}
+
+.Diwali-card-image {
+    height: 75px;
+    width: 75px;
+}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/beautiful-tropical-empty-beach-sea-ocean-with-white-cloud-blue-sky-background_74190-13668.jpg?t=st=1719330815~exp=1719334415~hmac=d718c835d174cc3b9d84db8a26c80c9f439af99a720a70cf4913196bc322bb72&w=360");
+    height: 200vh;
+    background-size: cover;
+}
+
+.main-head {
+    font-family: Roboto;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.card-container {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.card-head {
+    color: black;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.card-para {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.card-image {
+    height: 15vh;
+    width: 10vw;
+}
